@@ -1,0 +1,14 @@
+#form{
+	border: 3px dashed darkblue;
+	border-radius: 5px;
+}
+body{
+	background-color: lightblue;
+}
+p{
+	color: darkblue;
+	font-size: 160%;
+}
+#leftcolumn{
+	border: 3px solid blue;
+}
